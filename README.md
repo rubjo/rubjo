@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://i.imgur.com/QFU5R67.png">
+<img align="right" height="225" src="https://i.imgur.com/QFU5R67.png">
 
 # 👋 Hi! I'm a web / app / font / data designer and front-end developer.
 
