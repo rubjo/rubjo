@@ -1,5 +1,3 @@
-<img align="right" height="225" src="https://i.imgur.com/QFU5R67.png">
-
 # 👋 Hi! I'm a web / app / font / data designer and front-end developer.
 
 ### My area of expertise sits somewhere in the intersection between HTML/CSS/JS and related frameworks, data visualisation, Baroque vocal music and beer, wine and good food.
